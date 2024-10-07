@@ -1,0 +1,9 @@
+# .air.toml
+
+# The root directory where Air will look for files to watch.
+root = "."
+# The directory where the compiled binary will be placed.
+bin = "build/linux"
+
+# The main Go file to run.
+main = "main.go"
